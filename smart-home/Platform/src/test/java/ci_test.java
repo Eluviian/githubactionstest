@@ -13,7 +13,7 @@ public class ci_test {
     public void zero_test()
     {
     int x = 0;
-    assertEquals(x,2);
+    assertEquals(x,0);
     }    
     
 }
